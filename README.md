@@ -1,5 +1,8 @@
 Demonstration of using Java annotation processors using Gradle's `annotationProcessor` dependency configuration.
 
+Accompanies the *Annotation processors in Gradle with the annotationProcessor dependency configuration* 
+[YouTube video](https://youtu.be/EMdavUDRmy4) and article at [tomgregory.com](https://tomgregory.com/annotation-processors-in-gradle-with-the-annotationprocessor-dependency-configuration/).
+
 ## Running
 
 Just run `./gradlew test`.
