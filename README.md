@@ -19,3 +19,6 @@ In *build.gradle* the `annotationProcessor` dependency configuration is used to 
 
 This will be passed to the Java compiler's `--processorpath` option which calls the annotation processor to generate the `CarMapper`
 implementation class `CarMapperImpl`.
+
+## Need Gradle support?
+Contact me if you need help with Gradle at [tom@tomgregory.com](mailto:tom@tomgregory.com).
